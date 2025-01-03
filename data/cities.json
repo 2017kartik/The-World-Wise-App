@@ -1,3 +1,28 @@
 {
-  "cities": []
+  "cities": [
+    {
+      "id": "1c87",
+      "cityName": "Ciudad Constitucion",
+      "country": "Mexico",
+      "emoji": "🇲🇽",
+      "date": "2025-01-03T17:01:47.863Z",
+      "notes": "",
+      "position": {
+        "lat": "24.681961205014595",
+        "lng": "-111.67602539062501"
+      }
+    },
+    {
+      "id": "c2a6",
+      "cityName": "Marhoum",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2025-01-03T17:01:59.272Z",
+      "notes": "",
+      "position": {
+        "lat": "34.288991865037524",
+        "lng": "0"
+      }
+    }
+  ]
 }
