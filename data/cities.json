@@ -10,7 +10,7 @@
         "lat": 38.727881642324164,
         "lng": -9.140900099907554
       },
-      "id": 73930385
+      "id": "73930385"
     },
     {
       "cityName": "Madrid",
@@ -22,7 +22,7 @@
         "lat": 40.46635901755316,
         "lng": -3.7133789062500004
       },
-      "id": 17806751
+      "id": "17806751"
     },
     {
       "cityName": "Berlin",
@@ -34,7 +34,91 @@
         "lat": 52.53586782505711,
         "lng": 13.376933665713324
       },
-      "id": 98443197
+      "id": "98443197"
+    },
+    {
+      "id": "06f5",
+      "cityName": "Rozas de Puerto Real",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-01-03T06:30:32.904Z",
+      "notes": "",
+      "position": {
+        "lat": "40.28149565505322",
+        "lng": "-4.526367187500001"
+      }
+    },
+    {
+      "id": "e5da",
+      "cityName": "Bhikia Sain",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2025-01-03T06:34:17.344Z",
+      "notes": "Hey! This is my home.",
+      "position": {
+        "lat": "29.695807117753418",
+        "lng": "79.2653274536133"
+      }
+    },
+    {
+      "id": "ffcf",
+      "cityName": "Bhikia Sain",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2025-01-03T06:34:17.344Z",
+      "notes": "Hey! This is my home.",
+      "position": {
+        "lat": "29.695807117753418",
+        "lng": "79.2653274536133"
+      }
+    },
+    {
+      "id": "8dc7",
+      "cityName": "Bhikia Sain",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2025-01-03T06:34:17.344Z",
+      "notes": "Hey! This is my home.",
+      "position": {
+        "lat": "29.695807117753418",
+        "lng": "79.2653274536133"
+      }
+    },
+    {
+      "id": "038e",
+      "cityName": "Kanke",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2025-01-25T06:39:37.000Z",
+      "notes": "This is my college location!",
+      "position": {
+        "lat": "23.40969647215689",
+        "lng": "85.40771484375001"
+      }
+    },
+    {
+      "id": "bbea",
+      "cityName": "Kanke",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2025-01-03T06:40:58.385Z",
+      "notes": "",
+      "position": {
+        "lat": "23.4191480235653",
+        "lng": "85.36170959472658"
+      }
+    },
+    {
+      "id": "6184",
+      "cityName": "Ramnagar",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2025-01-03T06:42:53.017Z",
+      "notes": "Nearest city to my home.",
+      "position": {
+        "lat": "29.401319510041485",
+        "lng": "79.15649414062501"
+      }
     }
   ]
 }
